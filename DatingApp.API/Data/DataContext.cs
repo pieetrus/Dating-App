@@ -1,7 +1,7 @@
-using DattingAPP.API.Models;
+using DatingApp.API.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace DattingAPP.API.Data
+namespace DatingApp.API.Data
 {
     public class DataContext : DbContext
     {
@@ -17,6 +17,8 @@ namespace DattingAPP.API.Data
            
 
         public DbSet<Value> Values { get; set; }
+        public DbSet<User> Users { get; set; }
+
 
     }
 }
