@@ -120,7 +120,7 @@
         "Country": "Northern Mariana Islands",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/man/69.jpg",
+            "url": "https://randomuser.me/api/portraits/men/69.jpg",
             "isMain": true,
             "description": "Excepteur irure cupidatat excepteur veniam cillum proident consectetur non aute cillum."
         }
@@ -141,7 +141,7 @@
         "Country": "Paraguay",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/man/45.jpg",
+            "url": "https://randomuser.me/api/portraits/men/45.jpg",
             "isMain": true,
             "description": "Anim elit commodo enim commodo excepteur qui labore reprehenderit id esse."
         }
@@ -162,7 +162,7 @@
         "Country": "Malta",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/man/44.jpg",
+            "url": "https://randomuser.me/api/portraits/men/44.jpg",
             "isMain": true,
             "description": "Laboris commodo dolore ipsum pariatur ullamco ut occaecat."
         }
@@ -183,7 +183,7 @@
         "Country": "Tunisia",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/man/56.jpg",
+            "url": "https://randomuser.me/api/portraits/men/56.jpg",
             "isMain": true,
             "description": "Non ea occaecat occaecat deserunt sint enim velit."
         }
@@ -204,7 +204,7 @@
         "Country": "Mauritius",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/man/23.jpg",
+            "url": "https://randomuser.me/api/portraits/men/23.jpg",
             "isMain": true,
             "description": "Esse ullamco ad non eiusmod non duis."
         }
